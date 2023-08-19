@@ -53,6 +53,18 @@ export default defineConfig({
         'data-spa': 'auto',
         defer: ''
       }
+    ],
+    [
+      'script',
+      {},
+      'window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };'
+    ],
+    [
+      'script',
+      {
+        src: '/_vercel/insights/script.js',
+        defer: ''
+      }
     ]
   ],
   buildEnd: genFeed
