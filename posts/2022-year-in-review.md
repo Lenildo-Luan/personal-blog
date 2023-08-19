@@ -1,9 +1,9 @@
 ---
 title: '2022 Year In Review'
 date: 2023-01-01
-author: Evan You
-gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+author: Lenildo Luan
+gravatar: 1d7a7642e5705edc116ed19d4fe64d87
+twitter: '@lenildoluan_dev'
 ---
 
 Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023.

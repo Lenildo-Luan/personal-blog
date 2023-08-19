@@ -1,9 +1,9 @@
 ---
 title: Announcing Vue 3.3
 date: 2023-05-11
-author: Evan You
+author: Lenildo Luan
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: '@lenildoluan_dev'
 ---
 
 Today we're excited to announce the release of Vue 3.3 "Rurouni Kenshin"!

@@ -8,44 +8,50 @@ const { page, frontmatter } = useData()
 </script>
 
 <template>
-  <div class="antialiased dark:bg-slate-900">
+  <div class="antialiased dark:bg-gray-950">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
       <nav class="flex justify-between items-center py-10 font-bold">
         <a class="text-xl" href="/" aria-label="The Vue Point">
           <img
             class="inline-block mr-2"
-            style="width: 36px; height: 31px"
+            style="width: 50px; height: auto; border-radius: 50%"
             alt="logo"
-            src="/logo.svg"
+            src="https://2.gravatar.com/avatar/1d7a7642e5705edc116ed19d4fe64d87"
           />
           <span
             v-if="!frontmatter.index"
             class="hidden md:inline dark:text-white"
-            >The Vue Point</span
           >
+            Lenildo Luan
+          </span>
         </a>
         <div class="text-sm text-gray-500 dark:text-white leading-5">
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://github.com/vuejs/blog"
+            href="https://www.linkedin.com/in/lenildoluan/"
             target="_blank"
             rel="noopener"
-            ><span class="hidden sm:inline">GitHub </span>Source</a
           >
+            LinkedIn
+          </a>
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="/feed.rss"
-            >RSS<span class="hidden sm:inline"> Feed</span></a
+            href="https://twitter.com/lenildoluan_dev"
+            target="_blank"
+            rel="noopener"
           >
+            Twitter
+          </a>
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://vuejs.org"
+            href="https://github.com/Lenildo-Luan"
             target="_blank"
             rel="noopener"
-            >Vuejs.org →</a
           >
+            GitHub
+          </a>
         </div>
       </nav>
     </div>
