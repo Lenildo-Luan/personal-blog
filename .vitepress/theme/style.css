@@ -17,7 +17,7 @@ p img {
 }
 
 .prose hr {
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid rgba(226, 232, 240, 0.05);
 }
 
 .link {

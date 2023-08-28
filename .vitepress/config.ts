@@ -20,7 +20,7 @@ export default defineConfig({
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: 'https://2.gravatar.com/avatar/1d7a7642e5705edc116ed19d4fe64d87'
+        href: '/favicon.ico'
       },
     ],
     [
