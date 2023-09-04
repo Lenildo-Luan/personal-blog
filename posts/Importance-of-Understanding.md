@@ -1,6 +1,6 @@
 ---
 title: "Importance of Understanding the Internet's Workings in the 21st"
-date: 2023-09-4
+date: 2023-09-04
 author: Lenildo Luan
 gravatar: 1d7a7642e5705edc116ed19d4fe64d87
 twitter: "@lenildoluan_dev"
