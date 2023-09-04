@@ -1,9 +1,9 @@
 ---
-title: 'Brief History of the Internet'
+title: "Brief History of the Internet"
 date: 2023-08-28
 author: Lenildo Luan
 gravatar: 1d7a7642e5705edc116ed19d4fe64d87
-twitter: '@lenildoluan_dev'
+twitter: "@lenildoluan_dev"
 ---
 
 The internet, as we know it today, is the product of decades of innovation, collaboration, and a desire to create a globally interconnected network for sharing information. In this post, we'll embark on a time-traveling voyage, tracing the milestones that have shaped the internet's evolution. Whether you're a tech enthusiast, a student of history, or simply curious about the backbone of our digital age, join us as we unravel the intriguing chronicles of the internet.
