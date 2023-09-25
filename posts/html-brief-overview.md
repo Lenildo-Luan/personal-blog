@@ -6,6 +6,8 @@ gravatar: 1d7a7642e5705edc116ed19d4fe64d87
 twitter: "@lenildoluan_dev"
 ---
 
+<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Learn%20HTML:%20A%20Beginner's%20Guide/Introduction/luan_internet_in_the_style_of_detailed_pen_and_ink_sketches_min_4dc712b2-96d5-47a2-8529-c3034c4a6e4c_0SUO1QjeV.png?updatedAt=1695657340761" class="img-banner" alt="Abstract illustrative image"/>
+
 HTML, an acronym for Hypertext Markup Language, is the cornerstone upon which the vast digital edifice of the web is built. Serving as the primary language sculpting the face of the internet, it shapes and gives life to the web pages we interact with daily. Dive in for a concise exploration:
 
 ---
