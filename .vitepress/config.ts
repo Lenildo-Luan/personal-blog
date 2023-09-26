@@ -41,7 +41,9 @@ export default defineConfig({
     [
       'link',
       {
-        rel: 'stylesheet',
+        rel: 'preload',
+        as: 'style',
+        onload: "this.onload=null;this.rel='stylesheet'",
         href: 'https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,400;10..48,500;10..48,700;10..48,800&display=swap'
       },
     ],
@@ -65,6 +67,11 @@ export default defineConfig({
         src: '/_vercel/insights/script.js',
         defer: ''
       }
+    ],
+    [
+      'noscript',
+      {},
+      '<link href="https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap" rel="stylesheet" type="text/css" />'
     ]
   ],
   buildEnd: genFeed
