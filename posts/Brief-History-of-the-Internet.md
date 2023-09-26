@@ -6,7 +6,7 @@ gravatar: 1d7a7642e5705edc116ed19d4fe64d87
 twitter: "@lenildoluan_dev"
 ---
 
-<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/Introduction/luan_internet_in_the_style_of_detailed_pen_and_ink_sketches_min_3549cbb9-6340-45d0-b1dd-c3ca110b0423_RwWwyWlns-removebg-preview_G8GRu6Ov0.png?updatedAt=1695748539884" class="img-banner" alt="Abstract illustrative image"/>
+<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/Introduction/luan_internet_in_the_style_of_detailed_pen_and_ink_sketches_min_3549cbb9-6340-45d0-b1dd-c3ca110b0423_RwWwyWlns-removebg-preview_G8GRu6Ov0.png?updatedAt=1695748539884" class="img-banner" alt="Abstract illustrative image" width="768" height="156" />
 
 The internet, as we know it today, is the product of decades of innovation, collaboration, and a desire to create a globally interconnected network for sharing information. In this post, we'll embark on a time-traveling voyage, tracing the milestones that have shaped the internet's evolution. Whether you're a tech enthusiast, a student of history, or simply curious about the backbone of our digital age, join us as we unravel the intriguing chronicles of the internet.
 

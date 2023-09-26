@@ -13,8 +13,8 @@ const { page, frontmatter } = useData()
       <nav class="flex justify-between items-center py-10 font-bold">
         <a class="text-xl" href="/" aria-label="The Vue Point">
           <img
-            class="inline-block mr-2"
-            style="width: 50px; height: auto; border-radius: 50%"
+            class="inline-block mr-2 rounded-full"
+            height="50" width="50"
             alt="logo"
             src="https://2.gravatar.com/avatar/1d7a7642e5705edc116ed19d4fe64d87"
           />
