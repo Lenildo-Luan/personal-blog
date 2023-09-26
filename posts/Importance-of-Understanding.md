@@ -6,7 +6,7 @@ gravatar: 1d7a7642e5705edc116ed19d4fe64d87
 twitter: "@lenildoluan_dev"
 ---
 
-<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/Introduction/luan_internet_in_the_style_of_detailed_pen_and_ink_sketches_min_4dc712b2-96d5-47a2-8529-c3034c4a6e4c_LEP4DORXq.png?updatedAt=1695656632296" class="img-banner" alt="Abstract illustrative image"/>
+<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/Introduction/luan_internet_in_the_style_of_detailed_pen_and_ink_sketches_min_4dc712b2-96d5-47a2-8529-c3034c4a6e4c_LEP4DORXq-removebg-preview_Sh1wv-L5j.png?updatedAt=1695748317001" class="img-banner" alt="Abstract illustrative image"/>
 
 In today's rapidly evolving technological landscape, the ability to use digital tools and platforms effectively is no longer just an advantage—it's a fundamental skill. This is where digital literacy comes into play.
 
