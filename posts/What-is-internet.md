@@ -6,34 +6,34 @@ gravatar: 1d7a7642e5705edc116ed19d4fe64d87
 twitter: "@lenildoluan_dev"
 head:
   - - meta
-    - property: og:title
+    - name: og:title
       content: What is internet and World Wide Web?
   - - meta
-    - property: og:description
+    - name: og:description
       content: This article aims to shed light on the true definition of the Internet and how it differs from the World Wide Web.
   - - meta
-    - property: og:type
+    - name: og:type
       content: article
   - - meta
-    - property: og:url
-      content: https://lenildoluan.com/posts/What-is-internet
+    - name: og:url
+      content: https://lenildo.com/posts/What-is-internet
   - - meta
-    - property: og:image
+    - name: og:image
       content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_eb3b86db-e755-4f41-97cb-2d87b6382dd4-removebg-preview_D4QqQTKsw.png?updatedAt=1697060336088
   - - meta
-    - property: twitter:title
+    - name: twitter:title
       content: What is internet and World Wide Web?
   - - meta
-    - property: twitter:description
+    - name: twitter:description
       content: This article aims to shed light on the true definition of the Internet and how it differs from the World Wide Web.
   - - meta
-    - property: twitter:type
+    - name: twitter:type
       content: article
   - - meta
-    - property: twitter:url
-      content: https://lenildoluan.com/posts/What-is-internet
+    - name: twitter:url
+      content: https://lenildo.com/posts/What-is-internet
   - - meta
-    - property: twitter:image
+    - name: twitter:image
       content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_eb3b86db-e755-4f41-97cb-2d87b6382dd4-removebg-preview_D4QqQTKsw.png?updatedAt=1697060336088
 ---
 
