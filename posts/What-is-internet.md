@@ -1,5 +1,6 @@
 ---
 title: "What is internet and World Wide Web?"
+description: This article aims to shed light on the true definition of the Internet and how it differs from the World Wide Web.
 date: 2023-10-11
 author: Lenildo Luan
 gravatar: 1d7a7642e5705edc116ed19d4fe64d87
@@ -19,7 +20,7 @@ head:
       content: https://lenildo.com/posts/What-is-internet
   - - meta
     - name: og:image
-      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_eb3b86db-e755-4f41-97cb-2d87b6382dd4-removebg-preview_D4QqQTKsw.png?updatedAt=1697060336088
+      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_acd92789-2377-4dfe-ba0d-c14e482573d9_UkCV0FzSi.png?updatedAt=1697205225690
   - - meta
     - name: twitter:title
       content: What is internet and World Wide Web?
@@ -33,8 +34,8 @@ head:
     - name: twitter:url
       content: https://lenildo.com/posts/What-is-internet
   - - meta
-    - name: twitter:image
-      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_eb3b86db-e755-4f41-97cb-2d87b6382dd4-removebg-preview_D4QqQTKsw.png?updatedAt=1697060336088
+    - property: twitter:image
+      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_acd92789-2377-4dfe-ba0d-c14e482573d9_UkCV0FzSi.png?updatedAt=1697205225690
 ---
 
 <img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/How%20the%20Internet%20Works:%20A%20Comprehensive%20Guide/II.%20The%20Basic%20Concept:%20What%20is%20the%20Internet_/luan_cables_in_the_style_of_detailed_pen_and_ink_sketches_minim_eb3b86db-e755-4f41-97cb-2d87b6382dd4-removebg-preview_D4QqQTKsw.png?updatedAt=1697060336088" class="img-banner" alt="Abstract illustrative image" width="768" height="156" />
