@@ -17,7 +17,7 @@ head:
       content: article
   - - meta
     - name: og:url
-      content: https://lenildo.com/posts/vue-introduction
+      content: https://lenildo.com/posts/introduction-to-vue
   - - meta
     - name: og:image
       content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-01%2015.45.47%20-%20A%20detailed%20pen%20and%20ink%20sketch%20of%20a%20wide,%20horizontal%20banner,%20displaying%20the%20Vue.js%20logo%20in%20a%20minimalist%20style%20without%20any%20text.%20The%20logo%20is%20a%20'V'%20shape_AvmlrpnIt.png?updatedAt=1701457914818
@@ -32,7 +32,7 @@ head:
       content: article
   - - meta
     - name: twitter:url
-      content: https://lenildo.com/posts/vue-introduction
+      content: https://lenildo.com/posts/introduction-to-vue
   - - meta
     - property: twitter:image
       content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-01%2015.45.47%20-%20A%20detailed%20pen%20and%20ink%20sketch%20of%20a%20wide,%20horizontal%20banner,%20displaying%20the%20Vue.js%20logo%20in%20a%20minimalist%20style%20without%20any%20text.%20The%20logo%20is%20a%20'V'%20shape_AvmlrpnIt.png?updatedAt=1701457914818
