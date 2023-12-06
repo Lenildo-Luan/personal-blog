@@ -125,7 +125,7 @@ npm install
 npm run dev
 ```
 
-This command will create a local server that runs the project on port 5174 of your machine, and can be accessed through this link http://localhost:5174/. It's important to note that when you change anything in the project, automatically the change will appear in the browser, facilitating the process of learning and development.
+This command will create a local server that runs the project on port 5174 of your machine, and can be accessed through this link `http://localhost:5174/`. It's important to note that when you change anything in the project, automatically the change will appear in the browser, facilitating the process of learning and development.
 
 Congratulations! Now you create and run your first Vue.js 3 project! If you don't have choice an IDE, the official recommendation is Visual Studio Code (VSCode) + Volar extension. When you finish having fun with your project and want to put it into production, you can run the command below to build the project and all the files will be found in `./dist` folder.
 
