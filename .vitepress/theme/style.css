@@ -16,16 +16,32 @@ p img {
   margin: 0px auto;
 }
 
-
 .img-banner {
   -webkit-filter: grayscale(100%) contrast(200%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%) contrast(150%);
+  filter: grayscale(100%) contrast(200%);
+}
+
+.shiki.github-dark.vp-code-dark {
+  display: none;
+}
+
+.shiki.github-light.vp-code-light {
+  background-color: #eee;
 }
 
 @media screen and (prefers-color-scheme: dark) {
+  .shiki.github-dark.vp-code-dark {
+    display: block;
+    background-color: #111;
+  }
+
+  .shiki.github-light.vp-code-light {
+    display: none;
+  }
+
   .img-banner {
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
+    -webkit-filter: grayscale(100%) contrast(200%) invert(100%);
+    filter: grayscale(100%) contrast(200%) invert(100%);
   }
 }
 

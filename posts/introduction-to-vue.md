@@ -102,4 +102,4 @@ In general, if you're new to Vue or prefer a more structured approach, start wit
 
 ### Concluding 
 
-In this post learn a little about the history of Vue and its main features. In the next two posts, we'll learn about the two ways to create a Vue application. See you there.
+In this post, we learn a little about the history of Vue and its main features. In the next two posts, we'll learn about the two ways to create a Vue application. See you there.
