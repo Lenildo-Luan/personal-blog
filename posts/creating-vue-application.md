@@ -17,10 +17,10 @@ head:
       content: article
   - - meta
     - name: og:url
-      content: https://lenildo.com/posts/vue-build-setup
+      content: https://lenildo.com/posts/creating-vue-application
   - - meta
     - name: og:image
-      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17.19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_S0oGD3F6k.png?updatedAt=1701717631774
+      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17.19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_IxjJj1fZN.png?updatedAt=1702559797606
   - - meta
     - name: twitter:title
       content: Creating a Vue Application with build setup
@@ -35,10 +35,10 @@ head:
       content: https://lenildo.com/posts/vue-build-setup
   - - meta
     - property: twitter:image
-      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17.19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_S0oGD3F6k.png?updatedAt=1701717631774
+      content: https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17.19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_IxjJj1fZN.png?updatedAt=1702559797606
 ---
 
-<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17 19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_S0oGD3F6k.png?updatedAt=1701717631774" class="img-banner" alt="Abstract illustrative image" width="756" />
+<img src="https://ik.imagekit.io/zjvju1m8yb/Blog_LenildoLuan/posts/Vue/DALL_E%202023-12-04%2016.17.19%20-%20A%20minimalist%20and%20detailed%20pen%20and%20ink%20sketch%20of%20a%20claw%20hammer%20lying%20on%20a%20wooden%20surface,%20with%20the%20claw%20end%20facing%20up%20and%20the%20head%20to%20the%20left,%20in%20a%2016_IxjJj1fZN.png?updatedAt=1702559797606" class="img-banner" alt="Abstract illustrative image" width="756" />
 
 A build setup for Vue.js refers to a configuration or tooling environment that prepares a Vue.js application for development and production. This setup typically involves tools and processes that handle various tasks like transpiling modern JavaScript code, bundling assets, optimizing performance, and automating workflows. The goal is to streamline the development process, enhance performance, and ensure that the application is deployable across different environments. In this post, we'll learn how to create a Vue application using the build setup.
 
