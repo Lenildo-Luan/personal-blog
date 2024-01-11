@@ -42,11 +42,16 @@ p img {
   .img-banner {
     -webkit-filter: grayscale(100%) contrast(200%) invert(100%);
     filter: grayscale(100%) contrast(200%) invert(100%);
+    mix-blend-mode: multiply;
+  }
+
+  .prose hr {
+    border-top: 1px solid rgba(26, 24, 20, 1);
   }
 }
 
 .prose hr {
-  border-top: 1px solid rgba(226, 232, 240, 0.05);
+  border-top: 1px solid rgba(229, 231, 235, 1);
 }
 
 .link {
