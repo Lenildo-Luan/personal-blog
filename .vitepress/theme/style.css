@@ -42,7 +42,7 @@ p img {
   .img-banner {
     -webkit-filter: grayscale(100%) contrast(200%) invert(100%);
     filter: grayscale(100%) contrast(200%) invert(100%);
-    mix-blend-mode: multiply;
+    mix-blend-mode: screen;
   }
 
   .prose hr {
